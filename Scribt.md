@@ -1,17 +1,19 @@
-Bonjour [Prénom Nom],
+Subject: Demande d'entretien de 20 minutes – Étudiants en développement web (Solicode)
 
-Je me permets de vous contacter car je suis vivement intéressé(e) par les opportunités au sein de [Nom Entreprise], dont j'admire particulièrement [élément spécifique : projet/produit/culture tech].
+Monsieur(e),
 
-Étant développeur(se) spécialisé(e) en [Java / C#] avec une expérience en environnements Agile, je souhaiterais échanger avec vous pour mieux comprendre :
+Étudiants en 2ème année à Solicode, nous réalisons actuellement une enquête de marché sur le secteur IT local, analysant ses besoins, ses tendances et les profils recherchés par les entreprises.
 
-• Votre stack technique actuelle et vos défis d'architecture
-• Vos méthodologies (Scrum, Kanban, SAFe ?)
-• La culture d'équipe et l'organisation des sprints
+Dans ce contexte, nous souhaiterions échanger avec vous lors d'un entretien d'environ 20 minutes (en présentiel ou par visioconférence), afin de recueillir vos retours d'expérience sur :
 
-Seriez-vous disponible pour un appel de 15-20 minutes ou un café la semaine prochaine ? Je suis flexible et m'adapte à votre emploi du temps.
+- Les technologies employées (langages, frameworks, DevOps)
+- L'organisation de l'équipe (méthodes Agile, gestion de projet)
+- Les attentes réelles envers un jeune développeur débutant
 
-Dans l'attente de votre retour, je vous remercie par avance pour votre temps.
+Nous nous adapterons entièrement à vos disponibilités.
 
-Cordialement,
-[Votre Prénom NOM]
-[LinkedIn] | [Téléphone]
+Merci d'avance pour le temps que vous nous consacrerez.
+
+Bien cordialement,
+[Prénom Nom]
+Étudiant en Développement Web et Mobile – Solicode
