@@ -1,3 +1,5 @@
+Objet : Demande d'interview – Étudiants en 2ème année (Solicode) – Étude du marché tech
+
 Madame, Monsieur,
 
 Nous nous permettons de vous contacter en tant qu'étudiants en 2ᵉ année au centre de formation digitale Solicode à Tanger, en spécialisation développement web et mobile.
