@@ -1,45 +1,30 @@
-Objet : Demande d'entretien de 20 minutes – Étudiants en développement web (Solicode)
-
 Madame, Monsieur,
 
-Afin de conclure leur deuxième année à Solicode, les étudiants réalisent actuellement une étude de marché dans le secteur IT local, en identifiant ainsi ses besoins, ses tendances et les profils recherchés.
+Nous nous permettons de vous contacter en tant qu'étudiants en 2ᵉ année au centre de formation digitale Solicode à Tanger, en spécialisation développement web et mobile.
 
-C'est après avoir appris les particularités de [nom de l'entreprise] que nous avons décidé de mieux comprendre votre mode de travail.
+Dans le cadre de notre fin de cycle ainsi que d'un module de veille technologique, nous menons actuellement une étude approfondie sur les réalités du marché du travail IT, les environnements techniques des entreprises locales et leurs méthodes de travail.
 
-En conséquence de cela, nous aimerions bénéficier d'un entretien de 20 minutes environ qui pourrait nous permettre d'en savoir davantage sur les sujets suivants :
+Votre expertise au sein de [Nom de l'entreprise] nous intéresse tout particulièrement. C'est pourquoi nous souhaiterions solliciter un échange avec vous, sous l'un des formats suivants, selon vos disponibilités :
 
-- Techniques utilisées (programmation, logiciels, etc.)
-- Structure de l'équipe (méthodologie, management, etc.)
-- Attentes concrètes concernant le développeur junior
+• Un entretien court (15 à 20 minutes)
+• Une visite au sein de votre entreprise
+• Une intervention ou présentation dans notre établissement
 
-Nous nous adapterons tout à fait aux heures que vous nous indiquerez.
+Cet échange nous permettrait de :
 
-Merci par avance pour le temps que vous nous accorderez.
+• Mieux découvrir votre entreprise et vos activités
+• Comprendre votre stack technique (langages, frameworks, outils DevOps, etc.)
+• Explorer vos méthodes de travail (Agile, Scrum, gestion de projet, etc.)
+• Bénéficier de vos conseils pour mieux préparer notre intégration dans le marché du travail
 
-Bien sincèrement,
+Nous sommes entièrement flexibles concernant l'organisation (date, durée, format) et nous adapterons pleinement à votre agenda.
+
+Nous vous remercions sincèrement pour l'attention que vous porterez à notre demande et espérons avoir l'opportunité d'échanger prochainement avec vous.
+
+Veuillez agréer, Madame, Monsieur, l'expression de nos salutations distinguées.
+
 [Prénom Nom]
-Étudiant en développement Web et mobile – Solicode
-
-----------------------------------------------------------------------------------------------------------------------------
-
-Subject: طلب مقابلة مدتها 20 دقيقة – طلاب تطوير الويب (Solicode)
-
-السيدة / السيد،
-
-في إطار إتمام سنتهم الثانية بمركز Solicode، يقوم الطلاب حالياً بإجراء دراسة ميدانية حول سوق تكنولوجيا المعلومات المحلي، بهدف تحديد احتياجاته واتجاهاته والمهارات المطلوبة فيه.
-
-وبعد اطلاعنا على خصائص [اسم الشركة] وما تقدمه في هذا المجال، قررنا أن نسعى إلى فهم أعمق لأسلوب عملكم وممارساتكم المهنية.
-
-لذلك، نودّ أن نحظى بمقابلة تستغرق حوالي 20 دقيقة، تتيح لنا الاستفادة من خبرتكم حول المحاور التالية:
-
-- التقنيات المستخدمة (لغات البرمجة، الأطر البرمجية، أدوات DevOps، إلخ)
-- هيكل الفريق وطريقة العمل (المنهجية، إدارة المشاريع، إلخ)
-- التوقعات الفعلية من المطور الشاب المبتدئ
-
-نحن مرنون تماماً ونتكيف مع أوقاتكم، سواء بشكل حضوري أو عبر مكالمة فيديو.
-
-شكراً جزيلاً مسبقاً على الوقت الذي ستخصصونه لنا.
-
-مع خالص التحيات،
-[الاسم الكامل]
-طالب في تطوير الويب والتطبيقات المحمولة – Solicode
+Étudiant(e) en Développement Web & Mobile
+Centre Solicode – Tanger
+[Téléphone]
+[Email]
